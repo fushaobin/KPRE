@@ -67,7 +67,7 @@ $ python main.py --dataset music --adj_size 8 --n_layer 3 --aim_num 3 --lr 0.03
 
 ```
 $ cd src
-$ python main.py --dataset book --adj_size 8 --n_layer 3 --aim_num 2 --lr 0.06
+$ python main.py --dataset book --adj_size 32 --n_layer 4 --aim_num 4 --lr 0.01
 ```
 
 - movie
